@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emil Adolf von Behring",
+        "born": "Hansdorf, Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.666667,
+          53.6
+        ]
+      }
+    }
+  ]
+}
