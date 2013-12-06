@@ -4,28 +4,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wilhelm Röntgen",
-        "born": "Lennep, Rhine Province, Germany"
+        "name": "Henry Dunant",
+        "born": "Geneva, Switzerland"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.2,
-          51.183333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jacobus Henricus van 't Hoff",
-        "born": "Rotterdam, Netherlands"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.5,
-          51.916667
+          6.15,
+          46.2
         ]
       }
     },
@@ -40,6 +26,20 @@
         "coordinates": [
           19.666667,
           53.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilhelm Röntgen",
+        "born": "Lennep, Rhine Province, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2,
+          51.183333
         ]
       }
     },
@@ -63,14 +63,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Henry Dunant",
-        "born": "Geneva, Switzerland"
+        "name": "Jacobus Henricus van 't Hoff",
+        "born": "Rotterdam, Netherlands"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.15,
-          46.2
+          4.5,
+          51.916667
         ]
       }
     }
