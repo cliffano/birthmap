@@ -74,7 +74,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Michael Jordan",
+        "names": [
+          "Michael Jordan",
+          "Chris Mullin"
+        ],
         "born": "Brooklyn, New York"
       },
       "geometry": {
@@ -124,20 +127,6 @@
         "coordinates": [
           -117.425,
           47.658889
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Chris Mullin",
-        "born": "Brooklyn, New York"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.952222,
-          40.624722
         ]
       }
     },
