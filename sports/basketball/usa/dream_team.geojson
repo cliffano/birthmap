@@ -18,6 +18,37 @@
     {
       "type": "Feature",
       "properties": {
+        "names": [
+          "Michael Jordan",
+          "Chris Mullin"
+        ],
+        "born": "Brooklyn, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.952222,
+          40.624722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottie Pippen",
+        "born": "Hamburg, Arkansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.798333,
+          33.2275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "David Robinson",
         "born": "Key West, Florida"
       },
@@ -46,87 +77,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Larry Bird",
-        "born": "West Baden, Indiana"
+        "name": "Magic Johnson",
+        "born": "Lansing, Michigan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.611667,
-          38.566944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Scottie Pippen",
-        "born": "Hamburg, Arkansas"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.798333,
-          33.2275
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "names": [
-          "Michael Jordan",
-          "Chris Mullin"
-        ],
-        "born": "Brooklyn, New York"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.952222,
-          40.624722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Clyde Drexler",
-        "born": "New Orleans, Louisiana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.070556,
-          29.964722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Karl Malone",
-        "born": "Summerfield, Louisiana"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.829167,
-          32.9125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "John Stockton",
-        "born": "Spokane, Washington"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.425,
-          47.658889
+          -84.546667,
+          42.733611
         ]
       }
     },
@@ -147,14 +105,56 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Magic Johnson",
-        "born": "Lansing, Michigan"
+        "name": "Clyde Drexler",
+        "born": "New Orleans, Louisiana"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.546667,
-          42.733611
+          -90.070556,
+          29.964722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Stockton",
+        "born": "Spokane, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.425,
+          47.658889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karl Malone",
+        "born": "Summerfield, Louisiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.829167,
+          32.9125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larry Bird",
+        "born": "West Baden, Indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.611667,
+          38.566944
         ]
       }
     }
