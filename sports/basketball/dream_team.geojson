@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Christian Laettner",
-        "address": "Angola, New York"
+        "born": "Angola, New York"
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "name": "David Robinson",
-        "address": "Key West, Florida"
+        "born": "Key West, Florida"
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "name": "Patrick Ewing",
-        "address": "Kingston, Jamaica"
+        "born": "Kingston, Jamaica"
       },
       "geometry": {
         "type": "Point",
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "name": "Larry Bird",
-        "address": "West Baden, Indiana"
+        "born": "West Baden, Indiana"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "name": "Scottie Pippen",
-        "address": "Hamburg, Arkansas"
+        "born": "Hamburg, Arkansas"
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
       "type": "Feature",
       "properties": {
         "name": "Michael Jordan",
-        "address": "Brooklyn, New York"
+        "born": "Brooklyn, New York"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +89,7 @@
       "type": "Feature",
       "properties": {
         "name": "Clyde Drexler",
-        "address": "New Orleans, Louisiana"
+        "born": "New Orleans, Louisiana"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
       "type": "Feature",
       "properties": {
         "name": "Karl Malone",
-        "address": "Summerfield, Louisiana"
+        "born": "Summerfield, Louisiana"
       },
       "geometry": {
         "type": "Point",
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "name": "John Stockton",
-        "address": "Spokane, Washington"
+        "born": "Spokane, Washington"
       },
       "geometry": {
         "type": "Point",
@@ -131,7 +131,7 @@
       "type": "Feature",
       "properties": {
         "name": "Chris Mullin",
-        "address": "Brooklyn, New York"
+        "born": "Brooklyn, New York"
       },
       "geometry": {
         "type": "Point",
@@ -145,7 +145,7 @@
       "type": "Feature",
       "properties": {
         "name": "Charles Barkley",
-        "address": "Leeds, Alabama"
+        "born": "Leeds, Alabama"
       },
       "geometry": {
         "type": "Point",
@@ -159,7 +159,7 @@
       "type": "Feature",
       "properties": {
         "name": "Magic Johnson",
-        "address": "Lansing, Michigan"
+        "born": "Lansing, Michigan"
       },
       "geometry": {
         "type": "Point",
