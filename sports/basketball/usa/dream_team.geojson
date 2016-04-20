@@ -10,25 +10,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.030833,
-          42.639167
+          -79.0278156,
+          42.63839249999999
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "names": [
-          "Michael Jordan",
-          "Chris Mullin"
-        ],
+        "name": "Michael Jordan",
         "born": "Brooklyn, New York"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.952222,
-          40.624722
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chris Mullin (basketball)",
+        "born": "Brooklyn, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
         ]
       }
     },
@@ -41,22 +52,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.798333,
-          33.2275
+          -91.7976285,
+          33.2281757
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "David Robinson",
+        "name": "David Robinson (basketball)",
         "born": "Key West, Florida"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.784031,
-          24.559167
+          -81.7799871,
+          24.5550593
         ]
       }
     },
@@ -69,8 +80,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.8,
-          17.983333
+          -76.8099041,
+          18.0178743
         ]
       }
     },
@@ -83,8 +94,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.546667,
-          42.733611
+          -84.5555347,
+          42.732535
         ]
       }
     },
@@ -97,8 +108,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.5575,
-          33.545556
+          -86.54442879999999,
+          33.5481597
         ]
       }
     },
@@ -111,8 +122,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.070556,
-          29.964722
+          -90.0715323,
+          29.95106579999999
         ]
       }
     },
@@ -125,8 +136,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.425,
-          47.658889
+          -117.4260466,
+          47.6587802
         ]
       }
     },
@@ -139,8 +150,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.829167,
-          32.9125
+          -92.8293345,
+          32.9124159
         ]
       }
     },
@@ -153,8 +164,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.611667,
-          38.566944
+          -86.6111026,
+          38.5653318
         ]
       }
     }
