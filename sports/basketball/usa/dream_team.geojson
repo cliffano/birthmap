@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chris Mullin (basketball)",
+        "name": "Chris Mullin",
         "born": "Brooklyn, New York"
       },
       "geometry": {
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "David Robinson (basketball)",
+        "name": "David Robinson",
         "born": "Key West, Florida"
       },
       "geometry": {
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Magic Johnson",
+        "name": "Earvin \"Magic\" Johnson",
         "born": "Lansing, Michigan"
       },
       "geometry": {

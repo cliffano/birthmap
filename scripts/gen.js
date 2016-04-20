@@ -36,13 +36,17 @@ function getFeature(name, cb) {
 
   console.log('Scraping Wikipedia page of %s', name);
   wikiscraper.scrape(function(err, element) {
-    var feature = initFeature(name);
     if (err) {
       cb(err);
     }
     else {
+      var feature = initFeature(name);
+
+      var summary = element.infobox.summary;
       var born_elems = element.infobox.fields.Born.split('\n');
       var born = born_elems[born_elems.length - 1];
+
+      var feature = initFeature(summary);
       feature.properties.born = born;
 
       console.log('Geocoding %s birthplace in %s', name, born);
