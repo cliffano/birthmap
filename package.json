@@ -1,0 +1,10 @@
+{
+  "name": "bornmap",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "google-geocode": "^0.0.2",
+    "wikiscraper": "^1.0.0"
+  }
+}
