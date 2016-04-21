@@ -1,0 +1,1069 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Kristiania, Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7166776,
+          59.984904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "The Hague, Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3006999,
+          52.0704978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Gary, Indiana, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3464271,
+          41.5933696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Kharkiv, Russian Empire (present-day Ukraine)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.230383,
+          49.9935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Warwick, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.584927,
+          52.28231599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "New York City, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Munich, German Empire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5819806,
+          48.1351253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Gustafs, Dalarna, Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.6110187,
+          60.41140559999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Vienna, Cisleithania, Austria-Hungary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738189,
+          48.2081743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Saint Petersburg, Russian Empire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3350986,
+          59.9342802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "'s-Graveland, Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1314775,
+          52.2446819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Klippan, Skåne County"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1290409,
+          56.1348998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Swanage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.960769,
+          50.608277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Milwaukee, Wisconsin, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9064736,
+          43.0389025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Arlington, South Dakota, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.13312119999999,
+          44.3644133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Castries, Saint Lucia, British Windward Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.98746869999999,
+          14.0101094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Omaha, Nebraska, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99798829999999,
+          41.2523634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Champaign, Illinois, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2433829,
+          40.1164204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Seattle, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3320708,
+          47.6062095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Calais, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.858686,
+          50.95129000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Rome, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4963655,
+          41.9027835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Murfreesboro, Tennessee, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.39027,
+          35.8456213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Brooklyn, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Paris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Skedsmo, Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0421988,
+          59.9929184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Chicago, Illinois, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Boston, Massachusetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Boston, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Willesden, London, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.239096,
+          51.548961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Pottsville, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.195499,
+          40.6856456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Cambridge, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10973349999999,
+          42.3736158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Budapest, Hungary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.040235,
+          47.497912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Bluefield, West Virginia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2223195,
+          37.2698395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Breslau (Wrocław)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0385376,
+          51.1078852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Yakima, Washington, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5058987,
+          46.6020711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Minnigaff, Kirkcudbrightshire, Scotland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2026458,
+          56.49067119999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Victoria, British Columbia, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3656444,
+          48.4284207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "New York City, New York, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Timmins, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3304953,
+          48.4758208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Manikganj, British India (present-day Bangladesh)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.004663,
+          23.8644225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Kingston, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4859544,
+          44.2311717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Chicago, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Raleigh, North Carolina, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6381787,
+          35.7795897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "New Haven, Connecticut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9278835,
+          41.308274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Montclair, New Jersey, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2090053,
+          40.8259007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Gary, Indiana, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3464271,
+          41.5933696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Tel Aviv, Mandatory Palestine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.78176759999999,
+          32.0852999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Wichita, Kansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.33005299999999,
+          37.68717609999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Syracuse, New York, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.14742439999999,
+          43.0481221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Swansea, Wales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.943645999999999,
+          51.62144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Ålgård near Stavanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.756410499999999,
+          58.9643393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Glens Falls, New York, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6440058,
+          43.3095164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Frankfurt am Main, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821267,
+          50.1109221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Oakland, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2711137,
+          37.8043637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Evanston, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68769689999999,
+          42.0450722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Moscow, Russian Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.755826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "New York City, New York USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Boston, Massachusetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Albany, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7562317,
+          42.6525793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.712891,
+          37.09024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Superior, Wisconsin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10407959999999,
+          46.7207737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "New York City, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Enterprise, Oregon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2787815,
+          45.4262617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Nicosia, Cyprus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.38227639999999,
+          35.1855659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Pasadena, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1445155,
+          34.1477849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Washington, D.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "New York City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Cambridge, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10973349999999,
+          42.3736158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Boston, Massachusetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Champaign, Illinois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2433829,
+          40.1164204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Detroit, Michigan[2]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08175109999999,
+          42.3772734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Troyes, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0744009,
+          48.2973451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "",
+        "born": "Edinburgh, Scotland, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188267,
+          55.953252
+        ]
+      }
+    }
+  ]
+}
