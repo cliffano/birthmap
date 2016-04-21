@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derrick Coleman",
+        "born": "Mobile, Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0398912,
+          30.6953657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joe Dumars",
+        "born": "Shreveport, Louisiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7501789,
+          32.5251516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kevin Johnson",
+        "born": "Sacramento, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4943996,
+          38.5815719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larry Johnson",
+        "born": "Tyler, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.30106239999999,
+          32.3512601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shawn Kemp",
+        "born": "Elkhart, Indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9766671,
+          41.6819935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dan Majerle",
+        "born": "Traverse City, Michigan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62063169999999,
+          44.7630567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reggie Miller",
+        "born": "Riverside, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3961564,
+          33.9533487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alonzo Mourning",
+        "born": "Chesapeake, Virginia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2874927,
+          36.7682088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaquille O'Neal",
+        "born": "Newark, New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1723667,
+          40.735657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mark Price",
+        "born": "Bartlesville, Oklahoma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.98081789999999,
+          36.7473114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steve Smith",
+        "born": "Highland Park, Michigan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.096868,
+          42.4055925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dominique Wilkins",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    }
+  ]
+}
