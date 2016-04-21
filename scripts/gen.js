@@ -43,6 +43,10 @@ function getFeature(name, cb) {
     else {
       var feature = initFeature(name);
 
+      if (process.env.DEBUG === 'true') {
+        console.dir(element.infobox);
+      }
+
       var summary = element.infobox.summary;
       var born_elems = element.infobox.fields.Born.split('\n');
       var born = born_elems[born_elems.length - 1];
@@ -55,12 +59,39 @@ function getFeature(name, cb) {
         var country = born.substring(born.indexOf('present-day') + 'present-day'.length + 1, born.indexOf(')'));
         born = util.format('%s, %s', city, country);
       }
+
+      if (born.indexOf('modern') >= 0) {
+        var city = born.substring(0, born.indexOf(','));
+        var country = born.substring(born.indexOf('modern') + 'modern'.length + 1, born.indexOf(')'));
+        born = util.format('%s, %s', city, country);
+      }
+
+      if (born.indexOf('then part of') >= 0) {
+        born = born.substring(0, born.indexOf(', then part of'));
+      }
+
+      if (born.indexOf('German Empire') >= 0) {
+        born = born.replace('German Epire', 'German');
+      }
+
       console.log('Geocoding %s birthplace in %s', name, born);
       geocode.getGeocode(encodeURIComponent(born),
         function (geocode) {
-          var location = JSON.parse(geocode).results[0].geometry.location;
-          feature.geometry.coordinates = [location.lng, location.lat];
+          geocode = JSON.parse(geocode);
+
+          if (process.env.DEBUG === 'true') {
+            console.dir(geocode);
+            console.dir(geocode.status);
+          }
+
+          if (geocode.status === 'ZERO_RESULTS') {
+            console.error(geocode.status);
+          } else {
+            var location = geocode.results[0].geometry.location;
+            feature.geometry.coordinates = [location.lng, location.lat];
+          }
           cb(null, feature);
+
         },
         function (err) {
           cb(err)
