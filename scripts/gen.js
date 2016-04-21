@@ -2,6 +2,7 @@ var async       = require('async');
 var fs          = require('fs');
 var geocode     = require('google-geocode');
 var readline    = require('readline');
+var util        = require('util');
 var WikiScraper = require('wikiscraper');
 
 geocode.setApiKey(process.env.GOOGLE_DEVELOPER_API_KEY);
@@ -49,8 +50,13 @@ function getFeature(name, cb) {
       var feature = initFeature(summary);
       feature.properties.born = born;
 
+      if (born.indexOf('present-day') >= 0) {
+        var city = born.substring(0, born.indexOf(','));
+        var country = born.substring(born.indexOf('present-day') + 'present-day'.length + 1, born.indexOf(')'));
+        born = util.format('%s, %s', city, country);
+      }
       console.log('Geocoding %s birthplace in %s', name, born);
-      geocode.getGeocode(born,
+      geocode.getGeocode(encodeURIComponent(born),
         function (geocode) {
           var location = JSON.parse(geocode).results[0].geometry.location;
           feature.geometry.coordinates = [location.lng, location.lat];
