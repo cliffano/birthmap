@@ -71,7 +71,7 @@ function getFeatures(names, cb) {
     };
     tasks.push(task);
   });
-  async.parallel(tasks, cb);
+  async.series(tasks, cb);
 }
 
 var names = [];
