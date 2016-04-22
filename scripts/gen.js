@@ -32,6 +32,31 @@ function initFeature(name) {
   };
 }
 
+function modernise(born) {
+
+  if (born.indexOf('present-day') >= 0) {
+    var city = born.substring(0, born.indexOf(','));
+    var country = born.substring(born.indexOf('present-day') + 'present-day'.length + 1, born.indexOf(')'));
+    born = util.format('%s, %s', city, country);
+  }
+
+  if (born.indexOf('modern') >= 0) {
+    var city = born.substring(0, born.indexOf(','));
+    var country = born.substring(born.indexOf('modern') + 'modern'.length + 1, born.indexOf(')'));
+    born = util.format('%s, %s', city, country);
+  }
+
+  if (born.indexOf('then part of') >= 0) {
+    born = born.substring(0, born.indexOf(', then part of'));
+  }
+
+  if (born.indexOf('German Empire') >= 0) {
+    born = born.replace('German Epire', 'German');
+  }
+
+  return born;
+}
+
 function getFeature(name, cb) {
   var wikiscraper = new WikiScraper([name]);
 
@@ -41,38 +66,22 @@ function getFeature(name, cb) {
       cb(err);
     }
     else {
-      var feature = initFeature(name);
 
       if (process.env.DEBUG === 'true') {
         console.dir(element.infobox);
       }
 
-      var summary = element.infobox.summary;
+      if (name.indexOf(' (') >= 0) {
+        name = name.substring(0, name.indexOf(' ('));
+      }
+
       var born_elems = element.infobox.fields.Born.split('\n');
       var born = born_elems[born_elems.length - 1];
 
-      var feature = initFeature(summary);
+      var feature = initFeature(name);
       feature.properties.born = born;
 
-      if (born.indexOf('present-day') >= 0) {
-        var city = born.substring(0, born.indexOf(','));
-        var country = born.substring(born.indexOf('present-day') + 'present-day'.length + 1, born.indexOf(')'));
-        born = util.format('%s, %s', city, country);
-      }
-
-      if (born.indexOf('modern') >= 0) {
-        var city = born.substring(0, born.indexOf(','));
-        var country = born.substring(born.indexOf('modern') + 'modern'.length + 1, born.indexOf(')'));
-        born = util.format('%s, %s', city, country);
-      }
-
-      if (born.indexOf('then part of') >= 0) {
-        born = born.substring(0, born.indexOf(', then part of'));
-      }
-
-      if (born.indexOf('German Empire') >= 0) {
-        born = born.replace('German Epire', 'German');
-      }
+      born = modernise(born);
 
       console.log('Geocoding %s birthplace in %s', name, born);
       geocode.getGeocode(encodeURIComponent(born),
