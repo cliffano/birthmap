@@ -32,7 +32,7 @@ function initFeature(name) {
   };
 }
 
-function modernise(born) {
+function sanitise(born) {
 
   if (born.indexOf('present-day') >= 0) {
     var city = born.substring(0, born.indexOf(','));
@@ -51,7 +51,11 @@ function modernise(born) {
   }
 
   if (born.indexOf('German Empire') >= 0) {
-    born = born.replace('German Epire', 'German');
+    born = born.replace('German Empire', 'German');
+  }
+
+  if (born.indexOf('Russian Empire') >= 0) {
+    born = born.replace('Russian Empire', 'Russia');
   }
 
   return born;
@@ -77,11 +81,14 @@ function getFeature(name, cb) {
 
       var born_elems = element.infobox.fields.Born.split('\n');
       var born = born_elems[born_elems.length - 1];
+      if (born.indexOf('[') >= 0) {
+        born = born.substring(0, born.indexOf('['));
+      }
 
       var feature = initFeature(name);
       feature.properties.born = born;
 
-      born = modernise(born);
+      born = sanitise(born);
 
       console.log('Geocoding %s birthplace in %s', name, born);
       geocode.getGeocode(encodeURIComponent(born),
