@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Wilhelm Conrad Röntgen",
         "born": "Lennep, Rhine Province, German Confederation"
       },
       "geometry": {
@@ -18,7 +18,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Hendrik Lorentz",
         "born": "Arnhem, Netherlands"
       },
       "geometry": {
@@ -32,7 +32,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Pieter Zeeman",
         "born": "Zonnemaire, Netherlands"
       },
       "geometry": {
@@ -46,7 +46,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Antoine Henri Becquerel",
         "born": "Paris, France"
       },
       "geometry": {
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Pierre Curie",
         "born": "Paris, France"
       },
       "geometry": {
@@ -74,7 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Marie Curie",
         "born": "Warsaw, Kingdom of Poland, then part of Russian Empire"
       },
       "geometry": {
@@ -88,7 +88,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Lord Rayleigh",
         "born": "Langford Grove, Maldon, Essex, England"
       },
       "geometry": {
@@ -102,7 +102,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Philipp Eduard Anton von Lenard",
         "born": "Pressburg, Kingdom of Hungary, Austrian Empire"
       },
       "geometry": {
@@ -116,7 +116,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Joseph John Thomson",
         "born": "Cheetham Hill, Manchester, England"
       },
       "geometry": {
@@ -130,7 +130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Albert Abraham Michelson",
         "born": "Strzelno, Kingdom of Prussia (modern Poland)"
       },
       "geometry": {
@@ -144,7 +144,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Gabriel Lippmann",
         "born": "Bonnevoie/Bouneweg, Luxembourg (since 1921 part of Luxembourg City)"
       },
       "geometry": {
@@ -158,7 +158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Guglielmo Marconi",
         "born": "Palazzo Marescalchi, Bologna, Italy"
       },
       "geometry": {
@@ -172,7 +172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Karl Ferdinand Braun",
         "born": "Fulda, Electorate of Hessen, Germany"
       },
       "geometry": {
@@ -186,7 +186,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Johannes Diderik van der Waals",
         "born": "Leiden, Netherlands"
       },
       "geometry": {
@@ -200,7 +200,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Wilhelm Wien",
         "born": "Province of Prussia"
       },
       "geometry": {
@@ -214,7 +214,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Nils Gustaf Dalén",
         "born": "Stenstorp, Västergötland, Sweden"
       },
       "geometry": {
@@ -228,7 +228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Heike Kamerlingh-Onnes",
         "born": "Groningen, Netherlands"
       },
       "geometry": {
@@ -242,7 +242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Max von Laue",
         "born": "Pfaffendorf, Kingdom of Prussia, German Empire"
       },
       "geometry": {
@@ -256,7 +256,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "William Henry Bragg",
         "born": "Wigton, Cumberland, England"
       },
       "geometry": {
@@ -270,7 +270,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "William Lawrence Bragg",
         "born": "Adelaide, South Australia"
       },
       "geometry": {
@@ -284,7 +284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Charles Glover Barkla",
         "born": "Widnes, Lancashire, England"
       },
       "geometry": {
@@ -298,7 +298,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Max Planck",
         "born": "Kiel, Duchy of Holstein"
       },
       "geometry": {
@@ -312,7 +312,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Johannes Stark",
         "born": "Schickenhof, German Empire"
       },
       "geometry": {
@@ -326,7 +326,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Charles Édouard Guillaume",
         "born": "Fleurier, Switzerland"
       },
       "geometry": {
@@ -340,7 +340,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Albert Einstein",
         "born": "Ulm, Kingdom of Württemberg, German Empire"
       },
       "geometry": {
@@ -354,7 +354,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Niels Bohr",
         "born": "Copenhagen, Denmark"
       },
       "geometry": {
@@ -368,7 +368,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Robert Andrews Millikan",
         "born": "Morrison, Illinois, U.S."
       },
       "geometry": {
@@ -382,7 +382,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Manne Siegbahn",
         "born": "Örebro, Sweden"
       },
       "geometry": {
@@ -396,7 +396,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "James Franck",
         "born": "Hamburg, German Empire"
       },
       "geometry": {
@@ -410,7 +410,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Gustav Hertz",
         "born": "Free Hanseatic city of Hamburg, German Empire"
       },
       "geometry": {
@@ -424,7 +424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Jean Baptiste Perrin",
         "born": "Lille, France"
       },
       "geometry": {
@@ -438,7 +438,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Arthur Holly Compton",
         "born": "Wooster, Ohio, United States"
       },
       "geometry": {
@@ -452,7 +452,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Charles Thomson Rees Wilson",
         "born": "Midlothian, Scotland"
       },
       "geometry": {
@@ -466,7 +466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Owen Willans Richardson",
         "born": "Dewsbury, Yorkshire, England"
       },
       "geometry": {
@@ -480,7 +480,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Louis Victor Pierre Raymond",
         "born": "Dieppe, France"
       },
       "geometry": {
@@ -494,7 +494,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Chandrasekhara Venkata Raman",
         "born": "Thiruvanaikoil, Tiruchirappalli, Madras Presidency, British India"
       },
       "geometry": {
@@ -508,7 +508,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Werner Heisenberg",
         "born": "Würzburg, Bavaria, German Empire"
       },
       "geometry": {
@@ -522,7 +522,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Erwin Schrödinger",
         "born": "Vienna, Austria-Hungary"
       },
       "geometry": {
@@ -536,7 +536,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Paul Dirac",
         "born": "Bristol, England"
       },
       "geometry": {
@@ -550,7 +550,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "James Chadwick",
         "born": "Bollington, Cheshire, England"
       },
       "geometry": {
@@ -564,7 +564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Victor Francis Hess",
         "born": "Schloss Waldstein, Peggau, Austria-Hungary"
       },
       "geometry": {
@@ -578,7 +578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Carl David Anderson",
         "born": "New York City, New York, USA"
       },
       "geometry": {
@@ -592,7 +592,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Clinton Joseph Davisson",
         "born": "Bloomington, Illinois, USA"
       },
       "geometry": {
@@ -606,7 +606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "George Paget Thomson",
         "born": "Cambridge, England"
       },
       "geometry": {
@@ -620,7 +620,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Enrico Fermi",
         "born": "Rome, Italy"
       },
       "geometry": {
@@ -634,7 +634,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Ernest Lawrence",
         "born": "Canton, South Dakota, United States"
       },
       "geometry": {
@@ -648,7 +648,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Otto Stern",
         "born": "(today Żory, Poland)"
       },
       "geometry": {
@@ -662,7 +662,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Isidor Isaac Rabi",
         "born": "Rymanów, Galicia, Austria-Hungary (today Poland)"
       },
       "geometry": {
@@ -676,7 +676,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Wolfgang Pauli",
         "born": "Vienna, Austria-Hungary"
       },
       "geometry": {
@@ -690,7 +690,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Percy Williams Bridgman",
         "born": "Cambridge, Massachusetts, United States"
       },
       "geometry": {
@@ -704,7 +704,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Edward Victor Appleton",
         "born": "Bradford, West Riding of Yorkshire, England, UK"
       },
       "geometry": {
@@ -718,7 +718,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Patrick Maynard Stuart Blackett",
         "born": "London, England"
       },
       "geometry": {
@@ -732,7 +732,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Hideki Yukawa",
         "born": "Tokyo, Japan"
       },
       "geometry": {
@@ -746,7 +746,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Cecil Frank Powell",
         "born": "United Kingdom"
       },
       "geometry": {
@@ -760,7 +760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "John Douglas Cockcroft",
         "born": "Todmorden, England"
       },
       "geometry": {
@@ -774,7 +774,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Ernest Thomas Sinton Walton",
         "born": "Dungarvan, Ireland"
       },
       "geometry": {
@@ -788,7 +788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Felix Bloch",
         "born": "Zürich, Switzerland"
       },
       "geometry": {
@@ -802,7 +802,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Edward Mills Purcell",
         "born": "Taylorville, Illinois, USA"
       },
       "geometry": {
@@ -816,7 +816,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Frits Zernike",
         "born": "Amsterdam, Netherlands"
       },
       "geometry": {
@@ -830,21 +830,21 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Max Born",
         "born": "Breslau, German Empire"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.0385376,
-          51.1078852
+          17.0393929,
+          51.119576
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Walther Bothe",
         "born": "Oranienburg, German Empire"
       },
       "geometry": {
@@ -858,7 +858,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Willis Eugene Lamb",
         "born": "Los Angeles, California, U.S."
       },
       "geometry": {
@@ -872,7 +872,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Polykarp Kusch",
         "born": "Blankenburg, District of Blankenburg, Duchy of Brunswick, German Empire"
       },
       "geometry": {
@@ -886,7 +886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "John Bardeen",
         "born": "Madison, Wisconsin, U.S."
       },
       "geometry": {
@@ -900,7 +900,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Walter Houser Brattain",
         "born": "Xiamen, Fujian, China"
       },
       "geometry": {
@@ -914,7 +914,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "William Bradford Shockley",
         "born": "United Kingdom"
       },
       "geometry": {
@@ -928,7 +928,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Tsung-Dao Lee",
         "born": "Shanghai, China"
       },
       "geometry": {
@@ -942,7 +942,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Chen Ning Yang",
         "born": "Hefei, Anhui Province, China"
       },
       "geometry": {
@@ -956,7 +956,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Pavel Alekseyevich Cherenkov",
         "born": "Voronezh Oblast, Russian Empire"
       },
       "geometry": {
@@ -970,7 +970,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Ilya Frank",
         "born": "Saint Petersburg, Russian Empire"
       },
       "geometry": {
@@ -984,7 +984,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Igor Yevgenyevich Tamm",
         "born": "Vladivostok, Russian Empire"
       },
       "geometry": {
@@ -998,7 +998,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Emilio Gino Segrè",
         "born": "Tivoli, Italy"
       },
       "geometry": {
@@ -1012,7 +1012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Owen Chamberlain",
         "born": "San Francisco, California, USA"
       },
       "geometry": {
@@ -1026,7 +1026,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Donald Arthur Glaser",
         "born": "Cleveland, Ohio, U.S."
       },
       "geometry": {
@@ -1040,7 +1040,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Robert Hofstadter",
         "born": "New York City"
       },
       "geometry": {
@@ -1054,7 +1054,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Rudolf Ludwig Mössbauer",
         "born": "Munich, Weimar Republic"
       },
       "geometry": {
@@ -1068,7 +1068,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Lev Davidovich Landau",
         "born": "Baku, Baku Governorate, Russian Empire"
       },
       "geometry": {
@@ -1082,7 +1082,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Eugene Paul Wigner",
         "born": "Budapest, Austria-Hungary"
       },
       "geometry": {
@@ -1096,7 +1096,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Maria Goeppert-Mayer",
         "born": "(today Katowice, Poland)"
       },
       "geometry": {
@@ -1110,7 +1110,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "J. Hans D. Jensen",
         "born": "Hamburg, German Empire"
       },
       "geometry": {
@@ -1124,7 +1124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Nicolay Gennadiyevich Basov",
         "born": "Usman, Russian SFSR"
       },
       "geometry": {
@@ -1138,7 +1138,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Alexander Prokhorov",
         "born": "Atherton, Queensland, Australia"
       },
       "geometry": {
@@ -1152,7 +1152,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Charles Hard Townes",
         "born": "Greenville, South Carolina, U.S."
       },
       "geometry": {
@@ -1166,7 +1166,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Richard Phillips Feynman",
         "born": "Queens, New York, United States"
       },
       "geometry": {
@@ -1180,7 +1180,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Julian Schwinger",
         "born": "New York City, New York, USA"
       },
       "geometry": {
@@ -1194,7 +1194,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Sin-Itiro Tomonaga",
         "born": "Tokyo, Japan"
       },
       "geometry": {
@@ -1208,7 +1208,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Alfred Kastler",
         "born": "Guebwiller, Alsace, German Empire"
       },
       "geometry": {
@@ -1222,7 +1222,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Hans Albrecht Bethe",
         "born": "Strasbourg, Germany"
       },
       "geometry": {
@@ -1236,7 +1236,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Luis Walter Alvarez",
         "born": "San Francisco, California, USA"
       },
       "geometry": {
@@ -1250,7 +1250,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Murray Gell-Mann",
         "born": "Manhattan, New York City, U.S."
       },
       "geometry": {
@@ -1264,7 +1264,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Hannes Olof Gösta Alfvén",
         "born": "Norrköping, Sweden"
       },
       "geometry": {
@@ -1278,7 +1278,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Louis Néel",
         "born": "Lyon, France"
       },
       "geometry": {
@@ -1292,7 +1292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Dennis Gabor",
         "born": "Budapest, Kingdom of Hungary"
       },
       "geometry": {
@@ -1306,7 +1306,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "John Bardeen",
         "born": "Madison, Wisconsin, U.S."
       },
       "geometry": {
@@ -1320,7 +1320,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Leon Neil Cooper",
         "born": "New York City, United States"
       },
       "geometry": {
@@ -1334,7 +1334,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "John Robert Schrieffer",
         "born": "Oak Park, Illinois"
       },
       "geometry": {
@@ -1348,7 +1348,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Leo Esaki",
         "born": "Osaka, Japan"
       },
       "geometry": {
@@ -1362,7 +1362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Ivar Giaever",
         "born": "Bergen, Norway"
       },
       "geometry": {
@@ -1376,7 +1376,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Brian David Josephson",
         "born": "Cardiff, Wales"
       },
       "geometry": {
@@ -1390,7 +1390,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Martin Ryle",
         "born": "Brighton, England"
       },
       "geometry": {
@@ -1404,7 +1404,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Antony Hewish",
         "born": "Fowey, Cornwall, England"
       },
       "geometry": {
@@ -1418,7 +1418,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Aage Bohr",
         "born": "Copenhagen, Denmark"
       },
       "geometry": {
@@ -1432,7 +1432,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Ben Roy Mottelson",
         "born": "Chicago, Illinois"
       },
       "geometry": {
@@ -1446,7 +1446,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Leo James Rainwater",
         "born": "Council, Idaho"
       },
       "geometry": {
@@ -1460,7 +1460,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Burton Richter",
         "born": "Brooklyn, New York City"
       },
       "geometry": {
@@ -1474,7 +1474,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Samuel Chao Chung Ting",
         "born": "Ann Arbor, Michigan, United States"
       },
       "geometry": {
@@ -1488,7 +1488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Philip Warren Anderson",
         "born": "Indianapolis, Indiana, USA"
       },
       "geometry": {
@@ -1502,7 +1502,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Nevill Francis Mott",
         "born": "Leeds, England"
       },
       "geometry": {
@@ -1516,7 +1516,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "John Hasbrouck Van Vleck",
         "born": "Middletown, Connecticut"
       },
       "geometry": {
@@ -1530,7 +1530,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Pyotr Leonidovich Kapitsa",
         "born": "Kronstadt, Russian Empire"
       },
       "geometry": {
@@ -1544,7 +1544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Arno Allan Penzias",
         "born": "Munich, Germany"
       },
       "geometry": {
@@ -1558,7 +1558,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Robert Woodrow Wilson",
         "born": "Houston, Texas, USA"
       },
       "geometry": {
@@ -1572,7 +1572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Sheldon Lee Glashow",
         "born": "New York City, New York, US"
       },
       "geometry": {
@@ -1586,7 +1586,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Abdus Salam",
         "born": "Jhang, Punjab, British India (now Pakistan)"
       },
       "geometry": {
@@ -1600,7 +1600,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Steven Weinberg",
         "born": "New York City"
       },
       "geometry": {
@@ -1614,7 +1614,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "James Watson Cronin",
         "born": "Chicago, Illinois, USA"
       },
       "geometry": {
@@ -1628,7 +1628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Val Logsdon Fitch",
         "born": "Merriman, Nebraska"
       },
       "geometry": {
@@ -1642,7 +1642,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Nicolaas Bloembergen",
         "born": "Dordrecht, Netherlands"
       },
       "geometry": {
@@ -1656,7 +1656,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Arthur Leonard Schawlow",
         "born": "Mount Vernon, New York, U.S."
       },
       "geometry": {
@@ -1670,7 +1670,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Kai Manne Börje Siegbahn",
         "born": "Lund, Sweden"
       },
       "geometry": {
@@ -1684,7 +1684,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Kenneth G. Wilson",
         "born": "Waltham, Massachusetts"
       },
       "geometry": {
@@ -1698,7 +1698,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Subrahmanyan Chandrasekhar",
         "born": "Lahore, Punjab, British India"
       },
       "geometry": {
@@ -1712,7 +1712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "William Alfred Fowler",
         "born": "Pittsburgh, Pennsylvania"
       },
       "geometry": {
@@ -1726,7 +1726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Carlo Rubbia",
         "born": "Gorizia, Friuli-Venezia Giulia, Italy"
       },
       "geometry": {
@@ -1740,7 +1740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Simon van der Meer",
         "born": "The Hague, The Netherlands"
       },
       "geometry": {
@@ -1754,7 +1754,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Klaus von Klitzing",
         "born": "Schroda, Reichsgau Posen, Germany (present-day Poland)"
       },
       "geometry": {
@@ -1768,7 +1768,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Ernst Ruska",
         "born": "Heidelberg, Grand Duchy of Baden, German Empire"
       },
       "geometry": {
@@ -1782,7 +1782,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Gerd Binnig",
         "born": "Frankfurt am Main"
       },
       "geometry": {
@@ -1796,7 +1796,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Heinrich Rohrer",
         "born": "Buchs, St. Gallen, Switzerland"
       },
       "geometry": {
@@ -1810,7 +1810,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Johannes Georg Bednorz",
         "born": "Neuenkirchen, North Rhine-Westphalia, Germany"
       },
       "geometry": {
@@ -1824,7 +1824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Karl Alexander Müller",
         "born": "Basel, Switzerland"
       },
       "geometry": {
@@ -1838,7 +1838,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Leon Max Lederman",
         "born": "New York City, New York, U.S."
       },
       "geometry": {
@@ -1852,7 +1852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Melvin Schwartz",
         "born": "New York City, New York"
       },
       "geometry": {
@@ -1866,7 +1866,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Jack Steinberger",
         "born": "Bad Kissingen"
       },
       "geometry": {
@@ -1880,7 +1880,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Norman Foster Ramsey",
         "born": "Washington, DC"
       },
       "geometry": {
@@ -1894,7 +1894,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Hans Georg Dehmelt",
         "born": "Görlitz, Germany"
       },
       "geometry": {
@@ -1908,7 +1908,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Wolfgang Paul",
         "born": "Lorenzkirch, Saxony, German Empire"
       },
       "geometry": {
@@ -1922,7 +1922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Jerome I. Friedman",
         "born": "Chicago, Illinois"
       },
       "geometry": {
@@ -1936,7 +1936,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Henry Way Kendall",
         "born": "Boston, Massachusetts"
       },
       "geometry": {
@@ -1950,7 +1950,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Richard E. Taylor",
         "born": "Medicine Hat, Alberta"
       },
       "geometry": {
@@ -1964,7 +1964,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Pierre-Gilles de Gennes",
         "born": "Paris, France"
       },
       "geometry": {
@@ -1978,7 +1978,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Georges Charpak",
         "born": "Dąbrowica, Poland"
       },
       "geometry": {
@@ -1992,7 +1992,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Russell Alan Hulse",
         "born": "New York City, New York"
       },
       "geometry": {
@@ -2006,7 +2006,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Joseph Hooton Taylor, Jr.",
         "born": "Philadelphia, Pennsylvania"
       },
       "geometry": {
@@ -2020,7 +2020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Bertram Brockhouse",
         "born": "Lethbridge, Alberta"
       },
       "geometry": {
@@ -2034,7 +2034,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Clifford Glenwood Shull",
         "born": "Pittsburgh, Pennsylvania"
       },
       "geometry": {
@@ -2048,7 +2048,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Martin Lewis Perl",
         "born": "New York City, New York"
       },
       "geometry": {
@@ -2062,7 +2062,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Frederick Reines",
         "born": "Paterson, New Jersey"
       },
       "geometry": {
@@ -2076,7 +2076,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "David Morris Lee",
         "born": "Rye, New York"
       },
       "geometry": {
@@ -2090,7 +2090,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Douglas D. Osheroff",
         "born": "Aberdeen, Washington, U.S."
       },
       "geometry": {
@@ -2104,7 +2104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Robert Coleman Richardson",
         "born": "Washington, D.C., U.S."
       },
       "geometry": {
@@ -2118,7 +2118,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Steven Chu",
         "born": "St. Louis, Missouri, U.S."
       },
       "geometry": {
@@ -2132,7 +2132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Claude Cohen-Tannoudji",
         "born": "Constantine, Algeria"
       },
       "geometry": {
@@ -2146,7 +2146,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "William Daniel Phillips",
         "born": "Wilkes-Barre, Pennsylvania"
       },
       "geometry": {
@@ -2160,7 +2160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Robert B. Laughlin",
         "born": "Visalia, California, United States"
       },
       "geometry": {
@@ -2174,7 +2174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Horst Ludwig Störmer",
         "born": "Frankfurt, Germany"
       },
       "geometry": {
@@ -2188,7 +2188,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Daniel Chee Tsui",
         "born": "Fan village, Henan, China"
       },
       "geometry": {
@@ -2202,7 +2202,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Gerard 't Hooft",
         "born": "Den Helder, Netherlands"
       },
       "geometry": {
@@ -2216,7 +2216,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Martinus J. G. Veltman",
         "born": "Waalwijk, Netherlands"
       },
       "geometry": {
@@ -2230,7 +2230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Zhores Ivanovich Alferov",
         "born": "Vitebsk, Byelorussian SSR, Soviet Union"
       },
       "geometry": {
@@ -2244,7 +2244,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Herbert Kroemer",
         "born": "Weimar, Germany"
       },
       "geometry": {
@@ -2258,7 +2258,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Jack St. Clair Kilby",
         "born": "Jefferson City, Missouri, U.S."
       },
       "geometry": {
@@ -2272,21 +2272,21 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
-        "born": "Palo Alto, California, USA"
+        "name": "Eric Allin Cornell",
+        "born": "Mars"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.1430195,
-          37.4418834
+          16.3597539,
+          49.2836803
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Carl Edwin Wieman",
         "born": "Corvallis, Oregon, U.S."
       },
       "geometry": {
@@ -2300,7 +2300,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Wolfgang Ketterle",
         "born": "Heidelberg, West Germany"
       },
       "geometry": {
@@ -2314,7 +2314,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Raymond Davis, Jr.",
         "born": "Washington, D.C., United States"
       },
       "geometry": {
@@ -2328,7 +2328,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Masatoshi Koshiba",
         "born": "Toyohashi, Aichi, Japan"
       },
       "geometry": {
@@ -2342,7 +2342,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Riccardo Giacconi",
         "born": "Genoa, Italy"
       },
       "geometry": {
@@ -2356,7 +2356,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Alexei Alexeyevich Abrikosov",
         "born": "Moscow, Russian SFSR, Soviet Union"
       },
       "geometry": {
@@ -2370,7 +2370,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Vitaly Lazarevich Ginzburg",
         "born": "Moscow, Russian Empire"
       },
       "geometry": {
@@ -2384,7 +2384,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Anthony James Leggett",
         "born": "Camberwell, London, England"
       },
       "geometry": {
@@ -2398,7 +2398,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "David J. Gross",
         "born": "Washington, D.C., U.S."
       },
       "geometry": {
@@ -2412,7 +2412,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Hugh David Politzer",
         "born": "New York City, New York, U.S."
       },
       "geometry": {
@@ -2426,7 +2426,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Frank Wilczek",
         "born": "Mineola, New York, U.S."
       },
       "geometry": {
@@ -2440,7 +2440,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Roy J. Glauber",
         "born": "New York City, New York, USA"
       },
       "geometry": {
@@ -2454,7 +2454,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "John L. Hall",
         "born": "Denver, Colorado, U.S."
       },
       "geometry": {
@@ -2468,7 +2468,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Theodor W. Hänsch",
         "born": "Heidelberg, Germany"
       },
       "geometry": {
@@ -2482,7 +2482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "John C. Mather",
         "born": "Roanoke, Virginia, USA"
       },
       "geometry": {
@@ -2496,7 +2496,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "George F. Smoot",
         "born": "Yukon, Florida, United States"
       },
       "geometry": {
@@ -2510,7 +2510,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Albert Fert",
         "born": "Carcassonne, Aude, France"
       },
       "geometry": {
@@ -2524,7 +2524,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Peter Grünberg",
         "born": "Pilsen, Protectorate of Bohemia and Moravia"
       },
       "geometry": {
@@ -2538,21 +2538,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
-        "born": "Nagoya, Japan[2]"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          136.900532,
-          35.1711004
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "",
+        "name": "Makoto Kobayashi",
         "born": "Nagoya, Japan"
       },
       "geometry": {
@@ -2566,7 +2552,21 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Toshihide Maskawa",
+        "born": "Nagoya, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.906398,
+          35.1814464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yoichiro Nambu",
         "born": "Tokyo, Japan"
       },
       "geometry": {
@@ -2580,7 +2580,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Charles K. Kao",
         "born": "Shanghai, China"
       },
       "geometry": {
@@ -2594,7 +2594,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Willard S. Boyle",
         "born": "Amherst, Nova Scotia"
       },
       "geometry": {
@@ -2608,7 +2608,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "George E. Smith",
         "born": "White Plains, New York, U.S."
       },
       "geometry": {
@@ -2622,7 +2622,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Andre Geim",
         "born": "Sochi, Russian SFSR, Soviet Union"
       },
       "geometry": {
@@ -2636,7 +2636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Konstantin Novoselov",
         "born": "Nizhny Tagil, Russian SFSR, Soviet Union"
       },
       "geometry": {
@@ -2650,7 +2650,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Saul Perlmutter",
         "born": "Champaign-Urbana, Illinois, U.S."
       },
       "geometry": {
@@ -2664,7 +2664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Brian P. Schmidt",
         "born": "Missoula, Montana, United States"
       },
       "geometry": {
@@ -2678,7 +2678,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Adam G. Riess",
         "born": "Washington, D.C., U.S."
       },
       "geometry": {
@@ -2692,7 +2692,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Serge Haroche",
         "born": "(then a French protectorate)"
       },
       "geometry": {
@@ -2706,7 +2706,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "David J. Wineland",
         "born": "Milwaukee, Wisconsin, USA"
       },
       "geometry": {
@@ -2720,7 +2720,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "François Englert",
         "born": "Etterbeek, Brussels, Belgium"
       },
       "geometry": {
@@ -2734,7 +2734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Peter Higgs",
         "born": "Newcastle upon Tyne, England"
       },
       "geometry": {
@@ -2748,7 +2748,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Isamu Akasaki",
         "born": "Chiran, Kawanabe District, Kagoshima Prefecture"
       },
       "geometry": {
@@ -2762,7 +2762,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Hiroshi Amano",
         "born": "Hamamatsu"
       },
       "geometry": {
@@ -2776,7 +2776,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Shuji Nakamura",
         "born": "Ikata, Ehime, Japan"
       },
       "geometry": {
@@ -2790,7 +2790,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Takaaki Kajita",
         "born": "Higashimatsuyama, Saitama, Japan"
       },
       "geometry": {
@@ -2804,7 +2804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "",
+        "name": "Arthur B. McDonald",
         "born": "Sydney, Nova Scotia"
       },
       "geometry": {
