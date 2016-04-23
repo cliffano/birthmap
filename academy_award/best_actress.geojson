@@ -1,0 +1,2997 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ali MacGraw",
+        "born": "Pound Ridge, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.57482,
+          41.208442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amy Adams",
+        "born": "Vicenza, Veneto, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5354214,
+          45.5454787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angela Bassett",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angelina Jolie",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anjelica Huston",
+        "born": "Santa Monica, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4911912,
+          34.0194543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ann Harding",
+        "born": "San Antonio, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49362819999999,
+          29.4241219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ann-Margret",
+        "born": "Valsjöbyn, Jämtland County, Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1393084,
+          64.0682507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anna Magnani",
+        "born": "Rome, Kingdom of Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4963655,
+          41.9027835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anne Bancroft",
+        "born": "The Bronx, New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8648268,
+          40.8447819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anne Baxter",
+        "born": "Michigan City, Indiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8950297,
+          41.70753939999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anne Hathaway",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Annette Bening",
+        "born": "Topeka, Kansas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.68901849999999,
+          39.0558235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anouk Aimée",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Audrey Hepburn",
+        "born": "Ixelles, Brussels, Belgium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3666294,
+          50.83334319999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ava Gardner",
+        "born": "Smithfield, North Carolina, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.3394455,
+          35.5084935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbara Stanwyck",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barbra Streisand",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bessie Love",
+        "born": "Midland, Texas, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0779146,
+          31.9973456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bette Davis",
+        "born": "Lowell, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31617179999999,
+          42.6334247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bette Midler",
+        "born": "Honolulu, Hawaii, U.S. Territory"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8583333,
+          21.3069444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Betty Compson",
+        "born": "Beaver, Utah, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.6410518,
+          38.2769149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brenda Blethyn",
+        "born": "Ramsgate, Kent, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.419895,
+          51.335545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brie Larson",
+        "born": "Sacramento, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4943996,
+          38.5815719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carey Mulligan",
+        "born": "Westminster, London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1332326,
+          51.5001754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carol Kane",
+        "born": "Cleveland, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6943605,
+          41.49932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carole Lombard",
+        "born": "Fort Wayne, Indiana, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1393513,
+          41.079273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrie Snodgress",
+        "born": "Barrington, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1361888,
+          42.1539141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carroll Baker",
+        "born": "Johnstown, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9219698,
+          40.32674069999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catalina Sandino Moreno",
+        "born": "Bogotá, Colombia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.072092,
+          4.710988599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cate Blanchett",
+        "born": "Melbourne, Victoria, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96328,
+          -37.814107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catherine Deneuve",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Celia Johnson",
+        "born": "Richmond, Surrey, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.303742,
+          51.46131099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlize Theron",
+        "born": "Benoni, Transvaal Province, South Africa"
+      },
+      "geometry": {
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlotte Rampling",
+        "born": "Sturmer, Essex, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.476079,
+          52.06771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cher",
+        "born": "El Centro, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5630514,
+          32.792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cicely Tyson",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Claudette Colbert",
+        "born": "Saint-Mandé, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4178639,
+          48.84283199999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corinne Griffith",
+        "born": "Texarkana, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.04768820000001,
+          33.425125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Debbie Reynolds",
+        "born": "El Paso, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4850217,
+          31.7618778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deborah Kerr",
+        "born": "Glasgow, Lanarkshire, Scotland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251806,
+          55.864237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Debra Winger",
+        "born": "Cleveland Heights, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.556235,
+          41.5200518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diahann Carroll",
+        "born": "The Bronx, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86542949999999,
+          40.8370495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diana Ross",
+        "born": "Detroit, Michigan, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0457538,
+          42.331427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diana Wynyard",
+        "born": "Lewisham, East London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009176,
+          51.46344999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diane Keaton",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Diane Lane",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doris Day",
+        "born": "Cincinnati, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5120196,
+          39.1031182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorothy Dandridge",
+        "born": "Cleveland, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6943605,
+          41.49932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dorothy McGuire",
+        "born": "Omaha, Nebraska, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99798829999999,
+          41.2523634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edith Evans",
+        "born": "London, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eleanor Parker",
+        "born": "Cedarville, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.80853719999999,
+          39.74422680000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elisabeth Bergner",
+        "born": "Drohobych, Austro-Hungarian Empire (now Drohobych, Ukraine)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5123193,
+          49.3580116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elisabeth Shue",
+        "born": "Wilmington, Delaware, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5397878,
+          39.7390721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elizabeth Hartman",
+        "born": "Youngstown, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6495194,
+          41.0997803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elizabeth Taylor",
+        "born": "London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellen Burstyn",
+        "born": "Detroit, Michigan, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0457538,
+          42.331427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellen Page",
+        "born": "Halifax, Nova Scotia, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5753196,
+          44.6488625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emily Watson",
+        "born": "Islington, London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1058058,
+          51.5465063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emma Thompson",
+        "born": "Paddington, London, U.K."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.174943,
+          51.5159734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emmanuelle Riva",
+        "born": "Cheniménil, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.603753999999999,
+          48.1388869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fay Bainter",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Faye Dunaway",
+        "born": "Bascom, Florida, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1185405,
+          30.927965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felicity Huffman",
+        "born": "Bedford, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6437397,
+          41.204262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Felicity Jones",
+        "born": "Bournville, Birmingham, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9336919,
+          52.4240619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernanda Montenegro",
+        "born": "Rio de Janeiro, Brazil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1728965,
+          -22.9068467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frances McDormand",
+        "born": "Chicago, Illinois, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabourey Sidibe",
+        "born": "Bedford–Stuyvesant, Brooklyn, New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9417735,
+          40.6872176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geena Davis",
+        "born": "Wareham, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.71973419999999,
+          41.7614511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gena Rowlands",
+        "born": "Madison, Wisconsin, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4012302,
+          43.0730517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gene Tierney",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geneviève Bujold",
+        "born": "Montreal, Quebec, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567256,
+          45.5016889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geraldine Page",
+        "born": "Kirksville, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5832496,
+          40.19475389999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ginger Rogers",
+        "born": "Independence, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.41550679999999,
+          39.0911161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gladys George",
+        "born": "Patten, Maine, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.4461424,
+          45.9964392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenda Jackson",
+        "born": "Birkenhead, Cheshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.023009,
+          53.38999099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenn Close",
+        "born": "Greenwich, Connecticut, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6281964,
+          41.0262417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gloria Swanson",
+        "born": "Chicago, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goldie Hawn",
+        "born": "Washington, DC, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grace Kelly",
+        "born": "Philadelphia, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1652215,
+          39.9525839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greer Garson",
+        "born": "Manor Park, East Ham, Essex, England, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0530134,
+          51.5455305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greta Garbo",
+        "born": "Stockholm, Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0685808,
+          59.32932349999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gwyneth Paltrow",
+        "born": "Los Angeles, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halle Berry",
+        "born": "Cleveland, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6943605,
+          41.49932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helen Hayes",
+        "born": "Washington, D.C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helen Hunt",
+        "born": "Culver City, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3964665,
+          34.0211224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helen Mirren",
+        "born": "Hammersmith, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2237315,
+          51.4911875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helena Bonham Carter",
+        "born": "Islington, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1058058,
+          51.5465063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilary Swank",
+        "born": "Lincoln, Nebraska, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6851982,
+          40.8257625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holly Hunter",
+        "born": "Conyers, Georgia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.01769039999999,
+          33.6676103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Imelda Staunton",
+        "born": "Archway, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1334567,
+          51.5675339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ingrid Bergman",
+        "born": "Stockholm, Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0685808,
+          59.32932349999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irene Dunne",
+        "born": "Louisville, Kentucky, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7584557,
+          38.2526647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isabelle Adjani",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jane Alexander",
+        "born": "Boston, Massachusetts, United States."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jane Fonda",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jane Wyman",
+        "born": "Saint Joseph, Missouri, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.84668099999999,
+          39.7674578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Janet Gaynor",
+        "born": "Germantown, Philadelphia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1749671,
+          40.028521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Janet McTeer",
+        "born": "Newcastle upon Tyne, Northumberland, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6670537,
+          55.0016152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Janet Suzman",
+        "born": "Johannesburg, South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0473051,
+          -26.2041028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jean Arthur",
+        "born": "Plattsburgh, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4529124,
+          44.6994873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jean Simmons",
+        "born": "Lower Holloway, London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1165704,
+          51.5514143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeanne Crain",
+        "born": "Barstow, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0172826,
+          34.8957957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeanne Eagels",
+        "born": "Kansas City, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5785667,
+          39.0997265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jennifer Jones",
+        "born": "Tulsa, Oklahoma, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99277500000001,
+          36.1539816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jennifer Lawrence",
+        "born": "Indian Hills, Louisville, Kentucky, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.673199,
+          38.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jessica Chastain",
+        "born": "Sacramento, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4943996,
+          38.5815719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jessica Lange",
+        "born": "Cloquet, Minnesota, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.46118249999999,
+          46.7217735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jessica Tandy",
+        "born": "Hackney, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0646437,
+          51.55179529999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jill Clayburgh",
+        "born": "New York City, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joan Allen",
+        "born": "Rochelle, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0687073,
+          41.9239178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joan Crawford",
+        "born": "San Antonio, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.49362819999999,
+          29.4241219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joan Fontaine",
+        "born": "Tokyo, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7319925,
+          35.7090259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joanne Woodward",
+        "born": "Thomasville, Georgia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9787808,
+          30.8365815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jodie Foster",
+        "born": "Los Angeles, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judi Dench",
+        "born": "Heworth, North Riding of Yorkshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1743197,
+          52.3555177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judy Davis",
+        "born": "Perth, Western Australia, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8570471,
+          -31.9535132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judy Garland",
+        "born": "Grand Rapids, Minnesota, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.53021419999999,
+          47.2371658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Judy Holliday",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julia Roberts",
+        "born": "Smyrna, Georgia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.51437609999999,
+          33.8839926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julianne Moore",
+        "born": "Fort Bragg, North Carolina, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0079949,
+          35.1414552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julie Andrews",
+        "born": "Walton-on-Thames, Surrey, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.416969,
+          51.38847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julie Christie",
+        "born": "British India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35104199999999,
+          22.5682862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Julie Walters",
+        "born": "Edgbaston, Birmingham, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.914995,
+          52.4608009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juliette Binoche",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kate Winslet",
+        "born": "Reading, Berkshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9781303,
+          51.4542645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katharine Hepburn",
+        "born": "Hartford, Connecticut, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6850932,
+          41.76371109999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kathleen Turner",
+        "born": "Springfield, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29229889999999,
+          37.2089572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kathy Bates",
+        "born": "Memphis, Tennessee, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0489801,
+          35.1495343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keira Knightley",
+        "born": "Teddington, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.331342,
+          51.426799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keisha Castle-Hughes",
+        "born": "Donnybrook, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8279777,
+          -33.5788218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kim Stanley",
+        "born": "Tularosa, New Mexico, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0186025,
+          33.073973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kristin Scott Thomas",
+        "born": "Redruth, Cornwall, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.226666,
+          50.233022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lana Turner",
+        "born": "Wallace, Idaho, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.9279387,
+          47.4740945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laura Dern",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laura Linney",
+        "born": "New York City, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee Remick",
+        "born": "Quincy, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0022705,
+          42.2528772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leslie Caron",
+        "born": "Boulogne-sur-Seine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2399123,
+          48.8396952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liv Ullmann",
+        "born": "Tokyo, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7319925,
+          35.7090259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liza Minnelli",
+        "born": "Hollywood, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3286614,
+          34.0928092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loretta Young",
+        "born": "Salt Lake City, Utah, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8910474,
+          40.7607793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louise Dresser",
+        "born": "Evansville, Indiana, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5710898,
+          37.9715592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louise Fletcher",
+        "born": "Birmingham, Alabama, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80248999999999,
+          33.5206608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luise Rainer",
+        "born": "Düsseldorf, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7734556,
+          51.2277411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lynn Fontanne",
+        "born": "Woodford, London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0325025,
+          51.6041751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lynn Redgrave",
+        "born": "Marylebone, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1498955,
+          51.5188746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maggie McNamara",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maggie Smith",
+        "born": "Romford, Essex, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1768716,
+          51.6095585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Margaret Sullavan",
+        "born": "Norfolk, Virginia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.28587259999999,
+          36.8507689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marie Dressler",
+        "born": "Cobourg, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1677363,
+          43.9593373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marie-Christine Barrault",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marion Cotillard",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlee Matlin",
+        "born": "Morton Grove, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78256209999999,
+          42.0405852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlene Dietrich",
+        "born": "Schöneberg, Brandenburg, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1439221,
+          53.0068789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsha Mason",
+        "born": "St. Louis, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19940419999999,
+          38.6270025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martha Scott",
+        "born": "Jamesport, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.80105379999999,
+          39.97473249999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mary McDonnell",
+        "born": "Wilkes-Barre, Pennsylvania, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.88130749999999,
+          41.2459149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mary Pickford",
+        "born": "Toronto, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3831843,
+          43.653226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mary Tyler Moore",
+        "born": "Brooklyn, New York City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "May Robson",
+        "born": "Moama, New South Wales, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7556878,
+          -36.1126575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melanie Griffith",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melina Mercouri",
+        "born": "Athens, Greece"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7293599,
+          37.983917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melissa Leo",
+        "born": "New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merle Oberon",
+        "born": "Bombay, Bombay Presidency, British India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8776559,
+          19.0759837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meryl Streep",
+        "born": "Summit, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3646122,
+          40.7146376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michelle Pfeiffer",
+        "born": "Santa Ana, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8678338,
+          33.7455731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miranda Richardson",
+        "born": "Southport, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.010113,
+          53.645708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Miriam Hopkins",
+        "born": "Savannah, Georgia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09983419999999,
+          32.0835407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nancy Carroll",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nancy Kelly",
+        "born": "Lowell, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.31617179999999,
+          42.6334247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naomi Watts",
+        "born": "Shoreham, Kent, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1779114,
+          51.3333049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natalie Portman",
+        "born": "Jerusalem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21371,
+          31.768319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Natalie Wood",
+        "born": "San Francisco, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicole Kidman",
+        "born": "Honolulu, Hawaii, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8583333,
+          21.3069444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norma Shearer",
+        "born": "Montreal, Quebec, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.567256,
+          45.5016889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Olivia de Havilland",
+        "born": "Tokyo, Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7319925,
+          35.7090259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patricia Neal",
+        "born": "Packard, Kentucky, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.055481,
+          36.6644549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pauline Collins",
+        "born": "Exmouth, Devon, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.413702,
+          50.619957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penélope Cruz",
+        "born": "Alcobendas, Madrid, Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.637224499999999,
+          40.5372512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piper Laurie",
+        "born": "Detroit, Michigan, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0457538,
+          42.331427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quvenzhané Wallis",
+        "born": "Houma, Louisiana, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.71953479999999,
+          29.5957696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reese Witherspoon",
+        "born": "New Orleans, Louisiana, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0715323,
+          29.95106579999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Renée Zellweger",
+        "born": "Katy, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8243956,
+          29.7857853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rooney Mara",
+        "born": "Bedford, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6437397,
+          41.204262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosalind Russell",
+        "born": "Waterbury, Connecticut, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0514965,
+          41.5581525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosamund Pike",
+        "born": "Hammersmith, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2237315,
+          51.4911875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruth Chatterton",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sally Field",
+        "born": "Pasadena, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1445155,
+          34.1477849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sally Kirkland",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salma Hayek",
+        "born": "Coatzacoalcos, Veracruz, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4589858,
+          18.1344779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samantha Eggar",
+        "born": "Hampstead, London, England, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1762025,
+          51.5556715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samantha Morton",
+        "born": "Nottingham, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1581086,
+          52.95478319999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sandra Bullock",
+        "born": "Arlington, Virginia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1067698,
+          38.8799697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saoirse Ronan",
+        "born": "The Bronx, New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8648268,
+          40.8447819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sarah Miles",
+        "born": "Ingatestone, Essex, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3899059,
+          51.673794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sharon Stone",
+        "born": "Meadville, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.15144839999999,
+          41.6414438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shelley Winters",
+        "born": "St. Louis, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.19940419999999,
+          38.6270025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shirley Booth",
+        "born": "Brooklyn, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shirley MacLaine",
+        "born": "Richmond, Virginia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4360481,
+          37.5407246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigourney Weaver",
+        "born": "New York, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Simone Signoret",
+        "born": "Wiesbaden, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.239760799999999,
+          50.0782184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sissy Spacek",
+        "born": "Quitman, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4510641,
+          32.7959605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sophia Loren",
+        "born": "Rome, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4963655,
+          41.9027835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stockard Channing",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susan Hayward",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Susan Sarandon",
+        "born": "Jackson Heights, Queens, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8830701,
+          40.7556818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talia Shire",
+        "born": "Lake Success, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7176312,
+          40.7706572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teresa Wright",
+        "born": "Harlem, NYC, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9464769,
+          40.8115504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valerie Perrine",
+        "born": "Galveston, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7976958,
+          29.3013479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanessa Redgrave",
+        "born": "Greenwich, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0076589,
+          51.48257659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viola Davis",
+        "born": "St. Matthews, South Carolina, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.77786809999999,
+          33.664876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vivien Leigh",
+        "born": "Darjeeling, Bengal Presidency, British India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2626751,
+          27.0360066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendy Hiller",
+        "born": "Bramhall, Cheshire, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.164072,
+          53.367647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whoopi Goldberg",
+        "born": "Manhattan, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712488,
+          40.7830603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winona Ryder",
+        "born": "Olmsted County, Minnesota, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.38136209999999,
+          43.995179
+        ]
+      }
+    }
+  ]
+}
