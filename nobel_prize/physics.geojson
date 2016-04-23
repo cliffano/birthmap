@@ -214,20 +214,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nils Gustaf Dalén",
-        "born": "Stenstorp, Västergötland, Sweden"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Heike Kamerlingh-Onnes",
         "born": "Groningen, Netherlands"
       },
@@ -236,20 +222,6 @@
         "coordinates": [
           6.566501799999999,
           53.2193835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Max von Laue",
-        "born": "Pfaffendorf, Kingdom of Prussia, German Empire"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
         ]
       }
     },
@@ -306,20 +278,6 @@
         "coordinates": [
           10.1227652,
           54.3232927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Johannes Stark",
-        "born": "Schickenhof, German Empire"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
         ]
       }
     },
@@ -404,20 +362,6 @@
         "coordinates": [
           9.9936818,
           53.5510846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Gustav Hertz",
-        "born": "Free Hanseatic city of Hamburg, German Empire"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
         ]
       }
     },
@@ -564,20 +508,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Victor Francis Hess",
-        "born": "Schloss Waldstein, Peggau, Austria-Hungary"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Carl David Anderson",
         "born": "New York City, New York, USA"
       },
@@ -656,20 +586,6 @@
         "coordinates": [
           18.7006401,
           50.0447236
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Isidor Isaac Rabi",
-        "born": "Rymanów, Galicia, Austria-Hungary (today Poland)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
         ]
       }
     },
@@ -1118,20 +1034,6 @@
         "coordinates": [
           9.9936818,
           53.5510846
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Nicolay Gennadiyevich Basov",
-        "born": "Usman, Russian SFSR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
         ]
       }
     },
@@ -2686,20 +2588,6 @@
         "coordinates": [
           -77.0368707,
           38.9071923
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Serge Haroche",
-        "born": "(then a French protectorate)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0,
-          0
         ]
       }
     },

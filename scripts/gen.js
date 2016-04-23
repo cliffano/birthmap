@@ -26,8 +26,7 @@ function initFeature(name) {
       born: ''
     },
     geometry: {
-      type: 'Point',
-      coordinates: [0, 0]
+      type: 'Point'
     }
   };
 }
@@ -79,39 +78,45 @@ function getFeature(name, cb) {
         name = name.substring(0, name.indexOf(' ('));
       }
 
-      var born_elems = element.infobox.fields.Born.split('\n');
-      var born = born_elems[born_elems.length - 1];
-      if (born.indexOf('[') >= 0) {
-        born = born.substring(0, born.indexOf('['));
+      if (element.infobox.fields.Born) {
+        var born_elems = element.infobox.fields.Born.split('\n');
+        var born = born_elems[born_elems.length - 1];
+        if (born.indexOf('[') >= 0) {
+          born = born.substring(0, born.indexOf('['));
+        }
+
+        var feature = initFeature(name);
+        feature.properties.born = born;
+
+        born = sanitise(born);
+
+        console.log('Geocoding %s birthplace in %s', name, born);
+        geocode.getGeocode(encodeURIComponent(born),
+          function (geocode) {
+            geocode = JSON.parse(geocode);
+
+            if (process.env.DEBUG === 'true') {
+              console.dir(geocode);
+              console.dir(geocode.status);
+            }
+
+            if (geocode.status === 'ZERO_RESULTS') {
+              console.error(geocode.status);
+              cb(null, null);
+            } else {
+              var location = geocode.results[0].geometry.location;
+              feature.geometry.coordinates = [location.lng, location.lat];
+              cb(null, feature);
+            }
+
+          },
+          function (err) {
+            cb(err)
+          });
+      } else {
+        console.error('Wikipedia page does not have infoxbox born field');
+        cb(null, null);
       }
-
-      var feature = initFeature(name);
-      feature.properties.born = born;
-
-      born = sanitise(born);
-
-      console.log('Geocoding %s birthplace in %s', name, born);
-      geocode.getGeocode(encodeURIComponent(born),
-        function (geocode) {
-          geocode = JSON.parse(geocode);
-
-          if (process.env.DEBUG === 'true') {
-            console.dir(geocode);
-            console.dir(geocode.status);
-          }
-
-          if (geocode.status === 'ZERO_RESULTS') {
-            console.error(geocode.status);
-          } else {
-            var location = geocode.results[0].geometry.location;
-            feature.geometry.coordinates = [location.lng, location.lat];
-          }
-          cb(null, feature);
-
-        },
-        function (err) {
-          cb(err)
-        });
     }
   });
 
@@ -138,7 +143,13 @@ rl.on('line', function (name) {
 });
 rl.on('close', function () {
   var data = initFeatureCollection();
-  getFeatures(names, function (err, features) {
+  getFeatures(names, function (err, _features) {
+    var features = [];
+    _features.forEach(function (_feature) {
+      if (_feature !== null) {
+        features.push(_feature);
+      }
+    });
     if (err) {
       console.error(err);
     } else {
