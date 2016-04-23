@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charles Barkley",
+        "born": "Leeds, Alabama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54442879999999,
+          33.5481597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penny Hardaway",
+        "born": "Memphis, Tennessee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0489801,
+          35.1495343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grant Hill",
+        "born": "Dallas, Texas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.79698789999999,
+          32.7766642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karl Malone",
+        "born": "Summerfield, Louisiana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8293345,
+          32.9124159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reggie Miller",
+        "born": "Riverside, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3961564,
+          33.9533487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hakeem Olajuwon",
+        "born": "Lagos, Nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3792057,
+          6.5243793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shaquille O'Neal",
+        "born": "Newark, New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1723667,
+          40.735657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gary Payton",
+        "born": "Oakland, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2711137,
+          37.8043637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scottie Pippen",
+        "born": "Hamburg, Arkansas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7976285,
+          33.2281757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitch Richmond",
+        "born": "Fort Lauderdale, Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13731740000001,
+          26.1224386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Robinson",
+        "born": "Key West, Florida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7799871,
+          24.5550593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Stockton",
+        "born": "Spokane, Washington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4260466,
+          47.6587802
+        ]
+      }
+    }
+  ]
+}
