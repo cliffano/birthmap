@@ -1,0 +1,3085 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adolphe Menjou",
+        "born": "Pittsburgh, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958864,
+          40.44062479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adrien Brody",
+        "born": "New York City, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Pacino",
+        "born": "Manhattan, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712488,
+          40.7830603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alan Arkin",
+        "born": "Brooklyn, New York, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alan Bates",
+        "born": "Allestree, Derbyshire, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4925673,
+          52.9529489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Finney",
+        "born": "Charlestown, Pendleton, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2885995,
+          53.4895454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alec Guinness",
+        "born": "Paddington, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.174943,
+          51.5159734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexander Knox",
+        "born": "Strathroy, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.62323330000001,
+          42.95542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alfred Lunt",
+        "born": "Milwaukee, Wisconsin, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9064736,
+          43.0389025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anthony Franciosa",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anthony Hopkins",
+        "born": "Margam, Glamorgan, Wales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5896865,
+          51.5057193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anthony Quinn",
+        "born": "Chihuahua, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0691004,
+          28.6329957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Art Carney",
+        "born": "Mount Vernon, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8370786,
+          40.9125992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arthur Kennedy",
+        "born": "Worcester, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8022934,
+          42.2625932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barry Fitzgerald",
+        "born": "Dublin, Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603097,
+          53.3498053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Kingsley",
+        "born": "Snainton, North Riding of Yorkshire, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5906935999999999,
+          54.2265478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Benedict Cumberbatch",
+        "born": "Hammersmith, London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2237315,
+          51.4911875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bill Murray",
+        "born": "Evanston, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68769689999999,
+          42.0450722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Billy Bob Thornton",
+        "born": "Hot Springs, Arkansas, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0551795,
+          34.5037004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bing Crosby",
+        "born": "Tacoma, Washington, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4442906,
+          47.2528768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bob Hoskins",
+        "born": "Bury St Edmunds, West Suffolk, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7104931999999999,
+          52.2429228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brad Pitt",
+        "born": "Shawnee, Oklahoma, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9253004,
+          35.3272928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bradley Cooper",
+        "born": "Philadelphia, Pennsylvania, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1652215,
+          39.9525839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broderick Crawford",
+        "born": "Philadelphia, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1652215,
+          39.9525839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruce Dern",
+        "born": "Chicago, Illinois, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bryan Cranston",
+        "born": "Hollywood, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3286614,
+          34.0928092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burt Lancaster",
+        "born": "Manhattan, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712488,
+          40.7830603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cary Grant",
+        "born": "Horfield, Bristol, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.585055,
+          51.489282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charles Boyer",
+        "born": "Figeac, Lot, Midi-Pyrénées, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.032871,
+          44.60828799999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charles Chaplin",
+        "born": "London, England (unverified)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charles Laughton",
+        "born": "Scarborough, North Riding of Yorkshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4048461,
+          54.2897409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charlton Heston",
+        "born": "Wilmette, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7228384,
+          42.0722513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chester Morris",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chiwetel Ejiofor",
+        "born": "Forest Gate, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.024397,
+          51.545791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christian Bale",
+        "born": "Haverfordwest, Pembrokeshire, Wales, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.971318999999999,
+          51.800475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clark Gable",
+        "born": "Cadiz, Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9967628,
+          40.2728452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cliff Robertson",
+        "born": "La Jolla, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2712717,
+          32.8328112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clifton Webb",
+        "born": "Indianapolis, Indiana, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.158068,
+          39.768403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clint Eastwood",
+        "born": "San Francisco, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colin Firth",
+        "born": "Grayshott, Hampshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7535609999999999,
+          51.111707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cornel Wilde",
+        "born": "Prievidza, Hungary (now Slovakia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.503304,
+          47.162494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dan Dailey",
+        "born": "New York, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dan O'Herlihy",
+        "born": "County Wexford, Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5839913,
+          52.4793603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daniel Day-Lewis",
+        "born": "Kensington, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1932794,
+          51.5010095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Niven",
+        "born": "Carswell Manor, Berkshire, England, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1853677,
+          51.4669939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Strathairn",
+        "born": "San Francisco, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Demián Bichir",
+        "born": "Torreon, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4067861,
+          25.5428443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Denzel Washington",
+        "born": "Mount Vernon, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8370786,
+          40.9125992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dexter Gordon",
+        "born": "Los Angeles, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Don Cheadle",
+        "born": "Kansas City, Missouri, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5785667,
+          39.0997265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dudley Moore",
+        "born": "Hammersmith, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2237315,
+          51.4911875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dustin Hoffman",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ed Harris",
+        "born": "Englewood, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9726381,
+          40.8928771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eddie Redmayne",
+        "born": "City of Westminster, London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1332326,
+          51.5001754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edward James Olmos",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edward Norton",
+        "born": "Boston, Massachusetts, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emil Jannings",
+        "born": "Rorschach, Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4916808,
+          47.4788825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ernest Borgnine",
+        "born": "Hamden, Connecticut, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9026064,
+          41.3838782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "F. Murray Abraham",
+        "born": "Pittsburgh, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958864,
+          40.44062479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forest Whitaker",
+        "born": "Longview, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.74048909999999,
+          32.5007037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Franchot Tone",
+        "born": "Niagara Falls, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0377388,
+          43.0962143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frank Langella",
+        "born": "Bayonne, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1143091,
+          40.6687141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frank Morgan",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frank Sinatra",
+        "born": "Hoboken, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0323626,
+          40.7439905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fredric March",
+        "born": "Racine, Wisconsin, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.78285230000002,
+          42.7261309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gary Busey",
+        "born": "Goose Creek, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9636628,
+          29.7337477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gary Cooper",
+        "born": "Helena, Montana, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0245054,
+          46.5883707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gary Oldman",
+        "born": "New Cross, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.040245,
+          51.471022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gene Hackman",
+        "born": "San Bernardino, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2897652,
+          34.1083449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gene Kelly",
+        "born": "Pittsburgh, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958864,
+          40.44062479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geoffrey Rush",
+        "born": "Toowoomba, Queensland, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9539874,
+          -27.56433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Arliss",
+        "born": "London, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1277583,
+          51.5073509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Bancroft",
+        "born": "Worcester, Massachusetts, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8022934,
+          42.2625932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George C. Scott",
+        "born": "Wise, Virginia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5757108,
+          36.9759345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Clooney",
+        "born": "Lexington, Kentucky, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5037164,
+          38.0405837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giancarlo Giannini",
+        "born": "La Spezia, Liguria, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.824082599999999,
+          44.1024504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gregory Peck",
+        "born": "San Diego, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1610838,
+          32.715738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gérard Depardieu",
+        "born": "Châteauroux, Indre, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.686779,
+          46.811434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harrison Ford",
+        "born": "Chicago, Illinois, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heath Ledger",
+        "born": "Perth, Western Australia, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8570471,
+          -31.9535132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henry Fonda",
+        "born": "Grand Island, Nebraska, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3420118,
+          40.9263957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hugh Jackman",
+        "born": "Sydney, New South Wales, Australia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2069902,
+          -33.8674869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humphrey Bogart",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ian McKellen",
+        "born": "Burnley, Lancashire, England, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2405035,
+          53.7892877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack Lemmon",
+        "born": "Newton, Massachusetts, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.20922139999999,
+          42.3370413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jack Nicholson",
+        "born": "Neptune City, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03141649999999,
+          40.2005472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jackie Cooper",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Cagney",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Dean",
+        "born": "Marion, Indiana, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6591442,
+          40.5583739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Earl Jones",
+        "born": "Arkabutla, Mississippi, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1223152,
+          34.6989904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Franco",
+        "born": "Palo Alto, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1430195,
+          37.4418834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Garner",
+        "born": "Norman, Oklahoma, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4394777,
+          35.2225668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Mason",
+        "born": "Huddersfield, West Riding of Yorkshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7860251,
+          53.6417799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Stewart",
+        "born": "Indiana, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.15253489999999,
+          40.6214551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Whitmore",
+        "born": "White Plains, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7629097,
+          41.03398620000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Woods",
+        "born": "Vernal, Utah, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.5287479,
+          40.4555157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jamie Foxx",
+        "born": "Terrell, Texas, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2752569,
+          32.7359626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Javier Bardem",
+        "born": "Las Palmas de Gran Canaria, Spain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.4362574,
+          28.1235459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jean Dujardin",
+        "born": "Rueil-Malmaison, Hauts-de-Seine, Île-de-France, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17693,
+          48.882767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeff Bridges",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeremy Irons",
+        "born": "Cowes, Isle of Wight, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.300533,
+          50.76278500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jeremy Renner",
+        "born": "Modesto, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9968782,
+          37.63909719999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jesse Eisenberg",
+        "born": "Queens, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7948516,
+          40.7282239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joaquin Phoenix",
+        "born": "Río Piedras, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0404057,
+          18.3894791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Garfield",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9268836,
+          39.6852874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Hurt",
+        "born": "Chesterfield, Derbyshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.421629,
+          53.235048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Travolta",
+        "born": "Englewood, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9726381,
+          40.8928771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Wayne",
+        "born": "Winterset, Iowa, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0138393,
+          41.3308237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnny Depp",
+        "born": "Owensboro, Kentucky, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1111676,
+          37.7719074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jon Voight",
+        "born": "Yonkers, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89874689999999,
+          40.9312099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "José Ferrer",
+        "born": "San Juan, Puerto Rico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1057355,
+          18.4655394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jude Law",
+        "born": "Lewisham, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009176,
+          51.46344999999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenneth Branagh",
+        "born": "Belfast, Northern Ireland, U.K."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93012,
+          54.59728500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kevin Costner",
+        "born": "Lynwood, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2114603,
+          33.930293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kevin Spacey",
+        "born": "South Orange, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2609903,
+          40.7489277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kirk Douglas",
+        "born": "Amsterdam, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.190356,
+          42.9377453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Larry Parks",
+        "born": "Olathe, Kansas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.81912849999999,
+          38.8813958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurence Fishburne",
+        "born": "Augusta, Georgia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0105148,
+          33.4734978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laurence Harvey",
+        "born": "Joniškis, Lithuania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.6136579,
+          56.236073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lee Marvin",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9268836,
+          39.6852874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonardo DiCaprio",
+        "born": "Hollywood, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3286614,
+          34.0928092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lew Ayres",
+        "born": "Minneapolis, Minnesota, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2650108,
+          44.977753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lewis Stone",
+        "born": "Worcester, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.8022934,
+          42.2625932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liam Neeson",
+        "born": "Ballymena, County Antrim, Northern Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.341126099999999,
+          54.7736549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lionel Barrymore",
+        "born": "Philadelphia, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1652215,
+          39.9525839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Louis Calhern",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marcello Mastroianni",
+        "born": "Fontana Liri, Lazio, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5474021,
+          41.6207046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlon Brando",
+        "born": "Omaha, Nebraska, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99798829999999,
+          41.2523634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massimo Troisi",
+        "born": "San Giorgio a Cremano, Naples, Campania, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3447444,
+          40.8344827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matt Damon",
+        "born": "Cambridge, Massachusetts, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10973349999999,
+          42.3736158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matthew McConaughey",
+        "born": "Uvalde, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7861679,
+          29.20968359999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maurice Chevalier",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Max von Sydow",
+        "born": "Lund, Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1910073,
+          55.7046601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maximilian Schell",
+        "born": "Vienna, Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738189,
+          48.2081743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melvyn Douglas",
+        "born": "Macon, Georgia, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6324022,
+          32.8406946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael Caine",
+        "born": "Rotherhithe, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04599210000000001,
+          51.4982345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael Douglas",
+        "born": "New Brunswick, New Jersey, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4518188,
+          40.4862157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael Fassbender",
+        "born": "Heidelberg, West Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6724335,
+          49.3987524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael Keaton",
+        "born": "Robinson Township, Allegheny County, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1316927,
+          40.46579240000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Michael Redgrave",
+        "born": "Bristol, Gloucestershire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.58791,
+          51.454513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mickey Rooney",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mickey Rourke",
+        "born": "Schenectady, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9395687,
+          42.8142432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montgomery Clift",
+        "born": "Omaha, Nebraska, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99798829999999,
+          41.2523634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monty Woolley",
+        "born": "Manhattan, New York City, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712488,
+          40.7830603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgan Freeman",
+        "born": "Memphis, Tennessee, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0489801,
+          35.1495343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nick Nolte",
+        "born": "Omaha, Nebraska, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.99798829999999,
+          41.2523634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicolas Cage",
+        "born": "Long Beach, California, US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1937395,
+          33.7700504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nigel Hawthorne",
+        "born": "Coventry, Warwickshire, England, U.K."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5003707,
+          52.4157395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orson Welles",
+        "born": "Kenosha, Wisconsin, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.82118539999999,
+          42.5847425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oskar Werner",
+        "born": "Vienna, Austria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738189,
+          48.2081743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul Lukas",
+        "born": "Budapest, Austria-Hungary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.040235,
+          47.497912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul Muni",
+        "born": "Lemberg, Austro-Hungarian Empire (present day Lviv, Ukraine)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.029717,
+          49.839683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul Newman",
+        "born": "Shaker Heights, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5370671,
+          41.4739419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul Scofield",
+        "born": "Birmingham, Warwickshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.85356,
+          52.4533779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul Winfield",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Finch",
+        "born": "South Kensington, London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1746853,
+          51.4941501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Fonda",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9268836,
+          39.6852874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter O'Toole",
+        "born": "Leeds, Yorkshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5490774,
+          53.8007554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Sellers",
+        "born": "Southsea, Portsmouth, England, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085559,
+          50.783565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philip Seymour Hoffman",
+        "born": "Fairport, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44193779999999,
+          43.0986742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ralph Fiennes",
+        "born": "Ipswich, Suffolk, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.14822,
+          52.056736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ray Milland",
+        "born": "Neath, Glamorgan, Wales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8547318,
+          51.6454436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raymond Massey",
+        "born": "Toronto, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3831843,
+          43.653226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rex Harrison",
+        "born": "Huyton, Lancashire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6247731,
+          53.4712231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Barthelmess",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9268836,
+          39.6852874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Burton",
+        "born": "Pontrhydyfen, Wales"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.743294,
+          51.633519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Dix",
+        "born": "St. Paul, Minnesota, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0899578,
+          44.9537029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Dreyfuss",
+        "born": "Brooklyn, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9441579,
+          40.6781784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Farnsworth",
+        "born": "Los Angeles, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Harris",
+        "born": "Limerick, County Limerick, Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.630497499999999,
+          52.6680204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Jenkins",
+        "born": "DeKalb, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.75036469999999,
+          41.9294736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Richard Todd",
+        "born": "Dublin, County Dublin, Ireland, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2603097,
+          53.3498053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert De Niro",
+        "born": "Manhattan, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712488,
+          40.7830603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert Donat",
+        "born": "Withington, Manchester, Lancashire, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7060624,
+          53.62936329999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert Downey, Jr.",
+        "born": "Manhattan, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712488,
+          40.7830603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert Duvall",
+        "born": "San Diego, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1610838,
+          32.715738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert Redford",
+        "born": "Santa Monica, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4911912,
+          34.0194543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roberto Benigni",
+        "born": "Manciano La Misericordia, Castiglion Fiorentino, Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.910985,
+          43.3419821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robin Williams",
+        "born": "Chicago, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rock Hudson",
+        "born": "Winnetka, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.735895,
+          42.10808340000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ron Moody",
+        "born": "Tottenham, Middlesex, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1124131,
+          51.5965537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ronald Colman",
+        "born": "Richmond, Surrey, England, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.303742,
+          51.46131099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roy Scheider",
+        "born": "Orange, New Jersey, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2326478,
+          40.7706187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russell Crowe",
+        "born": "Strathmore Park, Wellington, New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.818152,
+          -41.3283751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryan Gosling",
+        "born": "London, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.243177,
+          42.9869502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ryan O'Neal",
+        "born": "Los Angeles, California, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436849,
+          34.0522342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sam Waterston",
+        "born": "Cambridge, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10973349999999,
+          42.3736158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sean Penn",
+        "born": "Los Angeles County, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2436596,
+          34.0522265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sidney Poitier",
+        "born": "Miami, Florida, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1917902,
+          25.7616798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spencer Tracy",
+        "born": "Milwaukee, Wisconsin, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9064736,
+          43.0389025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephen Rea",
+        "born": "Belfast, Northern Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93012,
+          54.59728500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steve Carell",
+        "born": "Concord, Massachusetts, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.3489484,
+          42.4603719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steve McQueen",
+        "born": "Beech Grove, Indiana, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0899847,
+          39.7219884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stuart Whitman",
+        "born": "San Francisco, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4194155,
+          37.7749295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sylvester Stallone",
+        "born": "New York, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrence Howard",
+        "born": "Chicago, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6297982,
+          41.8781136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom Conti",
+        "born": "Paisley, Scotland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.440113999999999,
+          55.847258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom Courtenay",
+        "born": "Hull, East Riding of Yorkshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1530132,
+          53.7802173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom Cruise",
+        "born": "Syracuse, New York, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.14742439999999,
+          43.0481221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom Hanks",
+        "born": "Concord, California, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.0310733,
+          37.9779776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom Hulce",
+        "born": "Detroit, Michigan, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0457538,
+          42.331427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tom Wilkinson",
+        "born": "Wharfedale, Yorkshire, England, United Kingdom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3000142,
+          54.2081621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tommy Lee Jones",
+        "born": "San Saba, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.718098,
+          31.1957234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tony Curtis",
+        "born": "The Bronx, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86542949999999,
+          40.8370495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trevor Howard",
+        "born": "Cliftonville, Kent, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.406638,
+          51.390955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victor McLaglen",
+        "born": "Stepney, East London, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04772490000000001,
+          51.515985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Viggo Mortensen",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9268836,
+          39.6852874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wallace Beery",
+        "born": "Clay County, Missouri, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.479976,
+          39.3176186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walter Huston",
+        "born": "Toronto, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3831843,
+          43.653226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walter Matthau",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9268836,
+          39.6852874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Walter Pidgeon",
+        "born": "Saint John, New Brunswick, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0633081,
+          45.2733153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warner Baxter",
+        "born": "Columbus, Ohio, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99879419999999,
+          39.9611755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warren Beatty",
+        "born": "Richmond, Virginia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4360481,
+          37.5407246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Will Smith",
+        "born": "Philadelphia, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1652215,
+          39.9525839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Holden",
+        "born": "O'Fallon, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.910991,
+          38.592323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Hurt",
+        "born": "Washington, D.C., United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Powell",
+        "born": "Pittsburgh, Pennsylvania, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9958864,
+          40.44062479999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woody Allen",
+        "born": "The Bronx, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86542949999999,
+          40.8370495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woody Harrelson",
+        "born": "Midland, Texas, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0779146,
+          31.9973456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yul Brynner",
+        "born": "Vladivostok, Far Eastern Republic (present-day Vladivostok, Russia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.0064506,
+          43.1737387
+        ]
+      }
+    }
+  ]
+}
