@@ -157,7 +157,6 @@ Paul Newman
 Paul Scofield
 Paul Winfield
 Peter Finch
-Peter Finch ^[39]
 Peter Fonda
 Peter O'Toole
 Peter Sellers

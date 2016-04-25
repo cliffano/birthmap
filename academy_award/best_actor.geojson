@@ -1466,8 +1466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.9268836,
-          39.6852874
+          -74.0059413,
+          40.7127837
         ]
       }
     },
@@ -1676,8 +1676,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.9268836,
-          39.6852874
+          -74.0059413,
+          40.7127837
         ]
       }
     },
@@ -2194,8 +2194,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.9268836,
-          39.6852874
+          -74.0059413,
+          40.7127837
         ]
       }
     },
@@ -2306,8 +2306,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.9268836,
-          39.6852874
+          -74.0059413,
+          40.7127837
         ]
       }
     },
@@ -2469,7 +2469,7 @@
       "type": "Feature",
       "properties": {
         "name": "Robert Redford",
-        "born": "Santa Monica, California, United States"
+        "born": "Santa Monica, California, U.S."
       },
       "geometry": {
         "type": "Point",
@@ -2894,8 +2894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.9268836,
-          39.6852874
+          -74.0059413,
+          40.7127837
         ]
       }
     },
@@ -2936,8 +2936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.9268836,
-          39.6852874
+          -74.0059413,
+          40.7127837
         ]
       }
     },

@@ -452,20 +452,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Charlize Theron",
-        "born": "Benoni, Transvaal Province, South Africa"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.2452367,
-          -26.1530982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Charlotte Rampling",
         "born": "Sturmer, Essex, England, UK"
       },
@@ -1475,13 +1461,13 @@
       "type": "Feature",
       "properties": {
         "name": "Jessica Chastain",
-        "born": "Sacramento, California, U.S."
+        "born": "near Sonoma, California, U.S."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.4943996,
-          38.5815719
+          -122.4580356,
+          38.291859
         ]
       }
     },
