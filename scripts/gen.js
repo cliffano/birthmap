@@ -11,6 +11,8 @@ geocode.setApiKey(process.env.GOOGLE_DEVELOPER_API_KEY);
 var inFile  = process.argv[2];
 var outFile = process.argv[3];
 
+var exclusions = [];
+
 function initFeatureCollection() {
   return {
     type: 'FeatureCollection',
@@ -101,7 +103,9 @@ function getFeature(name, cb) {
             }
 
             if (geocode.status === 'ZERO_RESULTS') {
-              console.error(geocode.status);
+              var message = geocode.status;
+              exclusions.push(util.format('%s - %s', name, message));
+              console.error(message);
               cb(null, null);
             } else {
               var location = geocode.results[0].geometry.location;
@@ -114,7 +118,9 @@ function getFeature(name, cb) {
             cb(err)
           });
       } else {
-        console.error('Wikipedia page does not have infoxbox born field');
+        var message = 'Wikipedia page does not have infoxbox born field';
+        exclusions.push(util.format('%s - %s', name, message));
+        console.error(message);
         cb(null, null);
       }
     }
@@ -129,7 +135,7 @@ function getFeatures(names, cb) {
     };
     tasks.push(task);
   });
-  async.series(tasks, cb);
+  async.parallelLimit(tasks, 25, cb);
 }
 
 var names = [];
@@ -155,6 +161,14 @@ rl.on('close', function () {
     } else {
       data.features = features;
       console.log('Writing output file %s', outFile);
+      if (exclusions.length > 0) {
+        console.log('Some names are excluded from the map:');
+        exclusions.forEach(function (exclusion) {
+          console.log(exclusion);
+        });
+      } else {
+        console.log('All names are included in the map');
+      }
       fs.writeFileSync(outFile, JSON.stringify(data, null, 2));
     }
   });
