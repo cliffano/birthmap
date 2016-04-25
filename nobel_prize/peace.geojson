@@ -1,0 +1,1069 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henry Dunant",
+        "born": "Geneva, Switzerland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1431577,
+          46.2043907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frédéric Passy",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "William Randal Cremer",
+        "born": "Fareham, Hampshire, England, UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1865868,
+          50.8548464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theodore Roosevelt",
+        "born": "New York City, New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tobias Asser",
+        "born": "Amsterdam, Netherlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895167900000001,
+          52.3702157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elihu Root",
+        "born": "Clinton, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3785034,
+          43.0484029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodrow Wilson",
+        "born": "Staunton, Virginia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0716958,
+          38.149576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Léon Bourgeois",
+        "born": "Paris"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hjalmar Branting",
+        "born": "Stockholm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0685808,
+          59.32932349999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fridtjof Nansen",
+        "born": "Store Frøen, Christiania (now Oslo), Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7522454,
+          59.9138688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Austen Chamberlain",
+        "born": "Birmingham, Warwickshire, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.85356,
+          52.4533779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Charles G. Dawes",
+        "born": "Marietta, Ohio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.45484359999999,
+          39.41535200000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aristide Briand",
+        "born": "Nantes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.553621,
+          47.218371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gustav Stresemann",
+        "born": "Berlin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.404954,
+          52.52000659999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferdinand Buisson",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludwig Quidde",
+        "born": "Bremen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8016937,
+          53.07929619999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frank B. Kellogg",
+        "born": "Potsdam, New York"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9813084,
+          44.6697805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nathan Söderblom",
+        "born": "Trönö, Sweden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.455349,
+          60.4536511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jane Addams",
+        "born": "Cedarville, Illinois, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6331727,
+          42.3758493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nicholas Murray Butler",
+        "born": "Elizabeth, New Jersey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2107006,
+          40.6639916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sir Norman Angell",
+        "born": "Holbeach, England"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.013434,
+          52.803991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arthur Henderson",
+        "born": "Glasgow, Scotland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251806,
+          55.864237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carl von Ossietzky",
+        "born": "Hamburg, German Empire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9936818,
+          53.5510846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlos Saavedra Lamas",
+        "born": "Buenos Aires, Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cordell Hull",
+        "born": "Olympus, Pickett County, Tennessee, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.13819579999999,
+          36.5690659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emily Greene Balch",
+        "born": "Boston, USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Raleigh Mott",
+        "born": "New York, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059413,
+          40.7127837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ralph Bunche",
+        "born": "Detroit, Michigan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0457538,
+          42.331427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Schweitzer",
+        "born": "Kaysersberg, Alsace-Lorraine, Germany (now Haut-Rhin, France)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2441099,
+          47.9315041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Catlett Marshall",
+        "born": "Uniontown, Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.71643259999999,
+          39.900076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lester Bowles Pearson",
+        "born": "Newtonbrook, Toronto, Ontario, Canada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4197497,
+          43.790104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dominique Pire",
+        "born": "Dinant, Belgium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.912745699999999,
+          50.26049399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philip Noel-Baker",
+        "born": "Brondesbury Park, London"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.214792,
+          51.541303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albert Lutuli",
+        "born": "Bulawayo, Southern Rhodesia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.635254,
+          -20.187477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dag Hammarskjöld",
+        "born": "Jönköping, Sweden, United Kingdoms of Sweden and Norway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1617876,
+          57.78261370000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Linus Carl Pauling",
+        "born": "Portland, Oregon, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6764816,
+          45.5230622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martin Luther King, Jr.",
+        "born": "Atlanta, Georgia, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3879824,
+          33.7489954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norman E. Borlaug",
+        "born": "Cresco, Iowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1140547,
+          43.3813568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willy Brandt",
+        "born": "Free and Hanseatic City of Lübeck, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6865593,
+          53.8654673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Henry Kissinger",
+        "born": "Fürth, Germany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.988667,
+          49.4771169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seán MacBride",
+        "born": "Paris, France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522219,
+          48.856614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andrei Dmitrievich Sakharov",
+        "born": "Moscow, Russian SFSR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6173,
+          55.755826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mairead Corrigan",
+        "born": "Belfast, Northern Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93012,
+          54.59728500000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohamed Anwar Al-Sadat",
+        "born": "El Monufia, Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.9876321,
+          30.5972455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Menachem Begin",
+        "born": "Brest, Russian Empire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.460648,
+          52.5296641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mother Teresa",
+        "born": "(modern Skopje, Macedonia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4279956,
+          41.9973462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adolfo Pérez Esquivel",
+        "born": "Buenos Aires, Argentina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.3815591,
+          -34.6036844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alfonso García Robles",
+        "born": "Zamora, Michoacán, Mexico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.2834075,
+          19.9901766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Desmond Tutu",
+        "born": "Klerksdorp, Western Transvaal, South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6317514,
+          -26.8598225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Óscar Arias",
+        "born": "Heredia, Costa Rica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.01674229999999,
+          10.473523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tenzin Gyatso",
+        "born": "Taktser, Qinghai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.8655392,
+          36.377869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aung San Suu Kyi",
+        "born": "(now Yangon)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.19513200000002,
+          16.8660694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rigoberta Menchú",
+        "born": "Laj Chimel, Quiché, Guatemala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23075899999999,
+          15.783471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson Mandela",
+        "born": "Mvezo, Cape Province, Union of South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5491565,
+          -31.9407269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frederik Willem de Klerk",
+        "born": "Johannesburg, Transvaal Province, Union of South Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0473051,
+          -26.2041028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yasser Arafat",
+        "born": "Cairo, Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2357116,
+          30.0444196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yitzhak Rabin",
+        "born": "Jerusalem, Mandatory Palestine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21371,
+          31.768319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph Rotblat",
+        "born": "Warsaw, Poland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0122287,
+          52.2296756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carlos Filipe Ximenes Belo",
+        "born": "Baucau, Portuguese Timor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3310364,
+          -9.862794599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "José Ramos-Horta",
+        "born": "(now East Timor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.3310364,
+          -9.862794599999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jody Williams",
+        "born": "Rutland, Vermont, United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.9726065,
+          43.6106237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "John Hume",
+        "born": "Derry, Northern Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.3085748,
+          54.9966124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Trimble",
+        "born": "Bangor, Northern Ireland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6730648,
+          54.6541971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kofi Annan",
+        "born": "(now Kumasi, Ghana)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6162709,
+          6.6666004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jimmy Carter",
+        "born": "Plains, Georgia, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3926912,
+          32.0340508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shirin Ebadi",
+        "born": "Hamadan, Iran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5150225,
+          34.7988575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohamed ElBaradei",
+        "born": "Cairo, Egypt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2357116,
+          30.0444196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muhammad Yunus",
+        "born": "(now Bangladesh)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.847488,
+          23.850113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Gore",
+        "born": "Washington, D.C., U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Martti Ahtisaari",
+        "born": "(now Vyborg, Russia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.75715709999999,
+          60.7139529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barack Obama",
+        "born": "Honolulu, Hawaii, U.S."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.8583333,
+          21.3069444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ellen Johnson Sirleaf",
+        "born": "Monrovia, Liberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.7605239,
+          6.2907432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leymah Gbowee",
+        "born": "Central Liberia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.438571,
+          10.629197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tawakkul Karman",
+        "born": "Taiz, Taiz Governorate, Yemen Arab Republic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.0351399,
+          13.5872484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kailash Satyarthi",
+        "born": "Vidisha, Madhya Pradesh, India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8081363,
+          23.5251102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malala Yousafzai",
+        "born": "Mingora, Khyber Pakhtunkhwa, Pakistan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3601512,
+          34.7717466
+        ]
+      }
+    }
+  ]
+}
